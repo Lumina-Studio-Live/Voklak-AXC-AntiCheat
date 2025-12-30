@@ -2,10 +2,51 @@
 Voklak AXC (Anti-eXploit-Cheat) is a security system focused on preventing exploit-based cheating through execution control, runtime integrity enforcement, and proactive mitigation techniques.
 Anti-eXploit-Cheat Platform
 
-UserMode
-<img width="1926" height="1034" alt="image" src="https://github.com/user-attachments/assets/aa33433e-9b0a-4a01-bb71-e2d9602f18af" />
+### UserMode Fullscreen Overlay & Hardware Control
+
+The Voklak AXC UserMode component includes a powerful, lightweight **fullscreen overlay** that provides real-time performance monitoring, graphics profile management, and **extensive RGB/ARGB lighting control** — all integrated directly into the protected application experience.
+<img width="1926" height="1034" alt="image" src="" />
+<img width="1920" height="1080" alt="Voklak Fullscreen Overlay - Home Tab" src="https://github.com/user-attachments/assets/aa33433e-9b0a-4a01-bb71-e2d9602f18af" />
+<img width="1920" height="1080" alt="Voklak Fullscreen Overlay - Performance Tab" src="https://github.com/user-attachments/assets/c9448ea9-41f1-4d38-bf68-7f6f54d01db0" />
+
+#### Key Features
+
+- **Performance Monitoring & FPS Overlay**  
+  Real-time FPS display with customizable position (top-left, top-right, bottom-left, bottom-right), text/background colors, and transparency.  
+  Configurable via the **Performance** tab with live preview and drag-to-position editing.
+
+- **Graphics Profile Management**  
+  Quick switching between preset profiles (Performance, Quality, Power Saving, Default).  
+  One-click profile application with visual feedback.
+
+- **Built-in RGB/ARGB Lighting Control**  
+  Comprehensive support for **all major brands**: ASUS (Aura Sync), Gigabyte (RGB Fusion), MSI (Mystic Light), Corsair (iCUE), Razer (Chroma), SteelSeries, Dell Alienware, and many more via OpenRGB integration.  
+  Full control over motherboards, GPU, RAM, fans, AIO coolers, cases, and **custom ARGB strips** for ambient/backlighting.
+
+- **Advanced Lighting Effects & Audio-Reactive Modes**  
+  - **Live color updates** across all devices  
+  - **Static, breathing, rainbow, wave** presets  
+  - **Smooth lava-lamp / blob-style fluid effects**  
+  - **Sound-reactive lighting** with intelligent detection:  
+    - Virtual 7.1 surround or HRTF-based directional response (left/right side lighting reacts to audio channel)  
+    - "Dark vibrant red" pulse on sound detection  
+    - Controlled flicker (max 3 seconds) to avoid eye strain  
+    - Duplicate sound suppression — prevents constant flickering on sustained audio  
+    - Large/explosive sounds trigger localized red pixel flashes in affected zone only  
+
+- **Floating Chat & Docker System**  
+  Integrated overlay chat with dockable/undockable floating window.  
+  Shortcut-triggered (customizable) for quick access during gameplay.
+
+- **Hardware Hotkeys & Shortcut Controls**  
+  Global hotkeys for instant RGB preset cycling, brightness, performance profile switch, and overlay toggle — even outside the fullscreen UI.
+
+The UserMode overlay runs with minimal performance impact and only activates within protected Nummutex-published applications. It combines security monitoring with practical gaming enhancements, making Voklak AXC not just an anti-cheat system, but a full-featured **gaming enhancement platform**.
+
+All RGB and performance controls are fully optional and user-configurable — no forced telemetry or background activity.
+
 <img width="1926" height="1042" alt="image" src="https://github.com/user-attachments/assets/b767b8b6-2083-4bc7-9a08-614bff17578c" />
-<img width="1922" height="1042" alt="image" src="https://github.com/user-attachments/assets/c9448ea9-41f1-4d38-bf68-7f6f54d01db0" />
+
 
 Voklak AXC is a multi-layer Anti-eXploit-Cheat (AXC) system designed to protect games and applications published on the Nummutex platform. It combines user-mode monitoring, kernel-mode enforcement, and platform-level services to prevent exploit-based cheating while maintaining performance and stability.
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/25708220-2b19-4a33-a7b6-04011a4eb82d" />
