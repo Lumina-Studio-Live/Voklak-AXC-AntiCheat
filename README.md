@@ -6,6 +6,9 @@ Voklak AXC
 Anti-eXploit-Cheat Platform
 
 UserMode
+<img width="1926" height="1034" alt="image" src="https://github.com/user-attachments/assets/aa33433e-9b0a-4a01-bb71-e2d9602f18af" />
+<img width="1926" height="1042" alt="image" src="https://github.com/user-attachments/assets/b767b8b6-2083-4bc7-9a08-614bff17578c" />
+<img width="1922" height="1042" alt="image" src="https://github.com/user-attachments/assets/c9448ea9-41f1-4d38-bf68-7f6f54d01db0" />
 
 Voklak AXC is a multi-layer Anti-eXploit-Cheat (AXC) system designed to protect games and applications published on the Nummutex platform. It combines user-mode monitoring, kernel-mode enforcement, and platform-level services to prevent exploit-based cheating while maintaining performance and stability.
 AXC is not a traditional signature-based anti-cheat. Instead, it focuses on execution integrity, exploit prevention, and controlled communication between trusted components.
