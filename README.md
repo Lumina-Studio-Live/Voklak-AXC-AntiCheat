@@ -73,9 +73,11 @@ All RGB and performance controls are fully optional and user-configurable — no
 
 
 Voklak AXC is a multi-layer Anti-eXploit-Cheat (AXC) system designed to protect games and applications published on the Nummutex platform. It combines user-mode monitoring, kernel-mode enforcement, and platform-level services to prevent exploit-based cheating while maintaining performance and stability.
+![Uploading image.png…]()
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/25708220-2b19-4a33-a7b6-04011a4eb82d" />
 AXC is not a traditional signature-based anti-cheat. Instead, it focuses on execution integrity, exploit prevention, and controlled communication between trusted components.
+
 What Is AXC?
 AXC (Anti-eXploit-Cheat) is an enforcement model that prioritizes blocking exploit vectors rather than reacting to cheats after damage has already occurred.
 Key goals of AXC:
