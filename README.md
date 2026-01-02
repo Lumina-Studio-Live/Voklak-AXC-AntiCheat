@@ -7,7 +7,7 @@ How It Works
 Voklak-AC uses a custom EFI bootloader (based on open-source Quibble) installed as the highest priority boot entry (Boot0000) in UEFI BootOrder.
 
 During installation, the launcher/tool runs efibootmgr (or equivalent) to:
-Add the custom EFI file (e.g., voklak.efi) as Boot0000.
+Add the custom EFI file (e.g., voklak.efi/WinAC.efi Or Ac.efi) as Boot0000.
 Reorder BootOrder so it is first: BootOrder: 0000,XXXX,...
 
 On every power-on/reboot:
