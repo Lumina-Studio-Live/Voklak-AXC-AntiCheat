@@ -31,7 +31,7 @@ Note: Requires user to enable Secure Boot + one-time install. Fully transparent,
 The Voklak AXC UserMode component includes a powerful, lightweight **fullscreen overlay** that provides real-time performance monitoring, graphics profile management, and **extensive RGB/ARGB lighting control** — all integrated directly into the protected application experience.
 <img width="1926" height="1034" alt="image" src="" />
 <img width="1920" height="1080" alt="Voklak Fullscreen Overlay - Home Tab" src="https://github.com/user-attachments/assets/aa33433e-9b0a-4a01-bb71-e2d9602f18af" />
-<img width="1920" height="1080" alt="Voklak Fullscreen Overlay - Performance Tab" src="https://github.com/user-attachments/assets/c9448ea9-41f1-4d38-bf68-7f6f54d01db0" />
+<img width="1920" height="1080" alt="Voklak Fullscreen Overlay - Performance Tab" src="https://github.com/user-attachments/assets/3dfec44c-3252-45bb-9a52-8a662d35d4f4" />
 
 #### Key Features
 
